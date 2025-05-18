@@ -14,3 +14,6 @@ mvn clean spring-boot:run
 # To test
 curl -v "http://localhost:8080/trigger"  
 Expected output = 200 with [{"userId":1,"id":1,"title":"su....
+
+# TODO
+Generate a FeignClient for another API from its OpenAPI spec. Keep the existing com.example.springCloudOpenFeign.feignclient.jsonplaceholder.Client as a comparison.
