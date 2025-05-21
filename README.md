@@ -1,6 +1,8 @@
 # springCloudOpenFeign
 Tutorial using spring-cloud-starter-openfeign
 
+Here, I wrote myself com.example.springCloudOpenFeign.feignclient.jsonplaceholder.Client. To see an OpenFeign project built from an OpenAPI spec, see https://github.com/pilif42/springCloudOpenFeignFromContract.
+
 # Used references
 - https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
 - https://www.baeldung.com/spring-cloud-openfeign  
